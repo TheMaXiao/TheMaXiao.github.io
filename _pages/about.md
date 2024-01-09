@@ -12,7 +12,7 @@ I'm a second year PhD candidate supervised by [Assistant Prof. Dong MA](https://
 
 News
 ======
-**[12/2023]** One paper accepted to [PerCom'2024](https://www.percom.org/call-for-papers/).
+**<font color=Blue>[12/2023]</font>** One paper accepted to [PerCom'2024](https://www.percom.org/call-for-papers/).
 
 
 Education
@@ -26,27 +26,27 @@ Publications
 ------
 - DiTMoS: Delving into Diverse Tiny-Model Selection on Microcontrollers.  
 **Xiao Ma**, Shengfeng He, Hezhe Qiao, Dong Ma.  
-PerCom, 2024.  
+<font color=Blue>PerCom, 2024.</font>  
 [[paper]()][[code](https://github.com/TheMaXiao/DiTMoS)]
 
 - A damage detection system for inner bore of electromagnetic railgun launcher based on deep learning and computer vision.  
 Yu Zhou, Ronggang Cao, Ping Li, **Xiao Ma**, Xueyi Hu, Fadong Li.   
-Expert Systems with Applications,2022.  
+<font color=Blue>Expert Systems with Applications,2022.</font>  
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422007059)]
 
-- Lightweight and Non-Invasive User Authentication on Earables.  
-***Changshuo Hu**, ***Xiao Ma**, Dong Ma, Ting Dang.  
-HotMobile, 2022.  
+- Lightweight and Non-Invasive User Authentication on Earables.
+*Changshuo Hu, ***Xiao Ma**, Dong Ma, Ting Dang.  
+<font color=Blue>HotMobile, 2022.</font>  
 [[paper](https://dl.acm.org/doi/abs/10.1145/3572864.3580332)]
 
 - A calibration method of inner bore profile detecting on electromagnetic railgun.  
 **Xiao Ma**, Ronggang Cao, Yu Zhou, Xueyi Hu, Fadong Li.  
-IEEE Sensors Journal, 2021.  
+<font color=Blue>IEEE Sensors Journal, 2021.</font>  
 [[paper](https://ieeexplore.ieee.org/abstract/document/9481084)]  
 
 - Analysis about Change of the Armature's Average Speed for an Experimental Rail Launcher.  
-Ronggang Cao, **Xiao Ma**, Guangwei Zhang, Xueyi Hu, Yu Zhou  
-IEEJ Transactions on Electrical and Electronic Engineering, 2021.  
+Ronggang Cao, **Xiao Ma**, Guangwei Zhang, Xueyi Hu, Yu Zhou.  
+<font color=Blue>IEEJ Transactions on Electrical and Electronic Engineering, 2021.</font>  
 [[paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.23401)]
 
 Honors and Awards
