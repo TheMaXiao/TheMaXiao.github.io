@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I'm a second year PhD candidate supervised by [Assistant Prof. Dong MA](https://www.dongma.info/) at the School of Computing and Information System, [Singapore Management University](https://www.smu.edu.sg/). I got my bachelor and master degree at [Beijing Institute of Technology](https://www.bit.edu.cn/) from 2015-2019 and 2019-2022. My research interests consists of mobile computing and pervasive sensing, especially the embedded machine learning(TinyML) which enable deep learning models on the resource-constraint embedded devices. 
 
 
