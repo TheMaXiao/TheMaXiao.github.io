@@ -52,7 +52,7 @@ Publications
 Honors and Awards
 ------
 - PhD Full Scholarship, Ministry of Education, Singapore 2022.
-- National Scholarship, Ministry of Education, China, 2021.
+- National Scholarship, Ministry of Education of China, China, 2021.
 
 Services
 ------
