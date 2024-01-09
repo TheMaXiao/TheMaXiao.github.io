@@ -34,7 +34,7 @@ Yu Zhou, Ronggang Cao, Ping Li, **Xiao Ma**, Xueyi Hu, Fadong Li.
 Expert Systems with Applications,2022.  
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422007059)]
 
-**Lightweight and Non-Invasive User Authentication on Earables.**  
+- **Lightweight and Non-Invasive User Authentication on Earables.**  
 ***Changshuo Hu**, ***Xiao Ma**, Dong Ma, Ting Dang.  
 HotMobile, 2022.  
 [[paper](https://dl.acm.org/doi/abs/10.1145/3572864.3580332)]
