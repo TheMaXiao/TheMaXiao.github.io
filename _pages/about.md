@@ -12,7 +12,7 @@ I'm a second year PhD candidate supervised by Assistant [Prof. Dong MA](https://
 
 News
 ======
-**[12/2023]** Our paper is accepted by [PerCom'2024](https://www.percom.org/call-for-papers/).
+**[12/2023]** One paper accepted to [PerCom'2024](https://www.percom.org/call-for-papers/).
 
 
 Education
