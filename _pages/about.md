@@ -17,7 +17,7 @@ News
 
 Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. PhD student in Computer Science, Singapore Management University, 2022-now.
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
