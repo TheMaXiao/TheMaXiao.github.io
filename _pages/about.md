@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Xiao HomePage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ I'm a second year PhD candidate supervised by Assistant [Prof. Dong MA](https://
 
 News
 ======
-[12/2023] Our paper is accepted by [PerCom'2024](https://www.percom.org/call-for-papers/).
+**[12/2023]** Our paper is accepted by [PerCom'2024](https://www.percom.org/call-for-papers/).
 
 
 Education
@@ -23,21 +23,32 @@ Education
 
 Publications
 ------
-DiTMoS: Delving into Diverse Tiny-Model Selection on Microcontrollers
-Xiao Ma, Jiaxin Wu, Chong-Wah Ngo
-30th International Conference on Multimedia Modeling, 2024
-[paper][code]()
+**DiTMoS: Delving into Diverse Tiny-Model Selection on Microcontrollers.**
+**Xiao Ma**, Shengfeng He, Hezhe Qiao, Dong Ma.
+PerCom, 2024. 
+[paper]()[code](https://github.com/TheMaXiao/DiTMoS)
+
+**A damage detection system for inner bore of electromagnetic railgun launcher based on deep learning and computer vision.**
+Yu Zhou, Ronggang Cao, Ping Li, **Xiao Ma**, Xueyi Hu, Fadong Li.
+Expert Systems with Applications,2022.
+[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422007059)
+
+**Lightweight and Non-Invasive User Authentication on Earables.**
+***Changshuo Hu**, ***Xiao Ma**, Dong Ma, Ting Dang.
+HotMobile, 2022.
+[paper](https://dl.acm.org/doi/abs/10.1145/3572864.3580332)
+
+**A calibration method of inner bore profile detecting on electromagnetic railgun.**
+**Xiao Ma**, Ronggang Cao, Yu Zhou, Xueyi Hu, Fadong Li.
+IEEE Sensors Journal, 2021.
+[paper](https://ieeexplore.ieee.org/abstract/document/9481084)
+
+**Analysis about Change of the Armature's Average Speed for an Experimental Rail Launcher.**
+Ronggang Cao, **Xiao Ma**, Guangwei Zhang, Xueyi Hu, Yu Zhou
+IEEJ Transactions on Electrical and Electronic Engineering, 2021.
+[paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.23401)
 
 Services
 ------
 Teaching Assistant, IS614 IoT: Technology and Applications, AY23/24 term2.
 
-
-
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
