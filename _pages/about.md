@@ -38,25 +38,25 @@ Journal
 ------
 - A damage detection system for inner bore of electromagnetic railgun launcher based on deep learning and computer vision.
   Yu Zhou, Ronggang Cao, Ping Li, **Xiao Ma**, Xueyi Hu, Fadong Li.
-  _**Expert Systems with Applications'22**_
+  _**Expert Systems with Applications, 2022**_
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422007059)]
 
 - A calibration method of inner bore profile detecting on electromagnetic railgun.
   **Xiao Ma**, Ronggang Cao, Yu Zhou, Xueyi Hu, Fadong Li.
-  _**IEEE Sensors Journal'21**_
+  _**IEEE Sensors Journal, 2021**_
   [[paper](https://ieeexplore.ieee.org/abstract/document/9481084)]  
 
 - Analysis about Change of the Armature's Average Speed for an Experimental Rail Launcher.
   Ronggang Cao, **Xiao Ma**, Guangwei Zhang, Xueyi Hu, Yu Zhou.
-  _**IEEJ Transactions on Electrical and Electronic Engineering'21**_
+  _**IEEJ Transactions on Electrical and Electronic Engineering, 2021**_
   [[paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.23401)]
 
 Honors and Awards
-------
+======
 - PhD Full Scholarship, Ministry of Education, Singapore 2022.
 - National Scholarship, Ministry of Education of China, China, 2021.
 
 Services
-------
+======
 Teaching Assistant, IS614 IoT: Technology and Applications, AY23/24 term2.
 
