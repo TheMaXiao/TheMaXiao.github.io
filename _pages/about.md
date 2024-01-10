@@ -18,7 +18,7 @@ Education
 ======
 - PhD student in Computer Science, Singapore Management University, 2022-present.
 - Master in Ordnance Engineering, Beijing Institute of Technology, 2019-2022.
-- Bachelor in Science in Detection Guidance and Control Technology, 2015-2019.
+- Bachelor in Science in Detection Guidance and Control Technology, Beijing Institute of Technology, 2015-2019.
 
 Publications
 ======
