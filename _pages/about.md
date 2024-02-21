@@ -14,7 +14,7 @@ News
 ======
 **<font color=Blue>[12/2023]</font>** I received IEEE CS TCPP & TCCC Travel Grant for PerCom'24.
 
-**<font color=Blue>[12/2023]</font>** One paper accepted to [PerCom'2024](https://www.percom.org/call-for-papers/).
+**<font color=Blue>[02/2024]</font>** One paper accepted to [PerCom'2024](https://www.percom.org/call-for-papers/).
 
 Education
 ======
