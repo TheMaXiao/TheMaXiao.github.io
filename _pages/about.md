@@ -12,6 +12,8 @@ I'm a second year PhD candidate supervised by [Assistant Prof. Dong MA](https://
 
 News
 ======
+**<font color=Blue>[03/2024]</font>** Our paper won the **<font color=Red>Mark Weiser Best Paper Award</font>** in PerCom'24.
+
 **<font color=Blue>[02/2024]</font>** I received IEEE CS TCPP & TCCC Travel Grant for PerCom'24.
 
 **<font color=Blue>[12/2023]</font>** One paper accepted to [PerCom'2024](https://www.percom.org/call-for-papers/).
