@@ -14,7 +14,7 @@ News
 ======
 **<font color=Blue>[03/2024]</font>** Our paper won the **<font color=Red>Mark Weiser Best Paper Award</font>** in PerCom'24.
 
-**<font color=Blue>[02/2024]</font>** I received IEEE CS TCPP & TCCC Travel Grant for PerCom'24.
+**<font color=Blue>[02/2024]</font>** I received IEEE TCPP Travel Grant for PerCom'24.
 
 **<font color=Blue>[12/2023]</font>** One paper accepted to [PerCom'2024](https://www.percom.org/call-for-papers/).
 
@@ -32,7 +32,7 @@ Conference
 - DiTMoS: Delving into Diverse Tiny-Model Selection on Microcontrollers.
   **Xiao Ma**, Shengfeng He, Hezhe Qiao, Dong Ma.
   _**PerCom'24**_
-  [[paper]()][[code](https://github.com/TheMaXiao/DiTMoS)]
+  [[paper](https://arxiv.org/abs/2403.09035)][[code](https://github.com/TheMaXiao/DiTMoS)]
 
 - Lightweight and Non-Invasive User Authentication on Earables.
   *Changshuo Hu, ***Xiao Ma**, Dong Ma, Ting Dang.
@@ -58,6 +58,8 @@ Journal
 
 Honors and Awards
 ======
+- Mark Weiser Best Paper Award, France, PerCom 2024.
+- IEEE TCPP Student Travel Grant, France, PerCom 2024.
 - PhD Full Scholarship, Ministry of Education, Singapore 2022.
 - National Scholarship, Ministry of Education of China, China, 2021.
 
