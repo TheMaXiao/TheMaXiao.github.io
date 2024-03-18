@@ -32,7 +32,7 @@ Conference
 - DiTMoS: Delving into Diverse Tiny-Model Selection on Microcontrollers.
   **Xiao Ma**, Shengfeng He, Hezhe Qiao, Dong Ma.
   _**PerCom'24**_
-  [[paper](https://arxiv.org/abs/2403.09035)][[code](https://github.com/TheMaXiao/DiTMoS)]
+  [[paper](https://arxiv.org/abs/2403.09035)][[code](https://github.com/TheMaXiao/DiTMoS)][[slides](https://github.com/TheMaXiao/TheMaXiao.github.io/blob/master/files/ditmos_slides.pdf)]
 
 - Lightweight and Non-Invasive User Authentication on Earables.
   *Changshuo Hu, ***Xiao Ma**, Dong Ma, Ting Dang.
