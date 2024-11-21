@@ -58,6 +58,7 @@ Journal
 
 Honors and Awards
 ======
+- SMU Presidential Doctoral Fellowship 2024
 - Mark Weiser Best Paper Award, France, PerCom 2024.
 - IEEE TCPP Student Travel Grant, France, PerCom 2024.
 - PhD Full Scholarship, Ministry of Education, Singapore 2022.
