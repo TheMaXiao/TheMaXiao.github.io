@@ -67,4 +67,6 @@ Honors and Awards
 Services
 ======
 Teaching Assistant, IS614 IoT: Technology and Applications, AY23/24 term2.
+Teaching Assistant, CS702: Computational Interaction, AY24/25 term2.
+Reviewer, TNNLS.
 
