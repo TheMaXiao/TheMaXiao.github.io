@@ -26,6 +26,7 @@ Education
 
 Publications
 ======
+
 Conference
 ------
 - DiTMoS: Delving into Diverse Tiny-Model Selection on Microcontrollers.
@@ -67,5 +68,6 @@ Services
 ======
 Teaching Assistant, IS614 IoT: Technology and Applications, AY23/24 term2.
 Teaching Assistant, CS702: Computational Interaction, AY24/25 term2.
+
 Reviewer, TNNLS.
 
