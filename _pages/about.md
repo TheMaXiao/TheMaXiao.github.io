@@ -12,6 +12,8 @@ I'm a second year PhD candidate supervised by [Assistant Prof. Dong MA](https://
 
 News
 ======
+**<font color=Blue>[04/2025]</font>** One paper accepted to IEEE TMC.
+
 **<font color=Blue>[03/2024]</font>** Our paper won the **<font color=Red>Mark Weiser Best Paper Award</font>** in PerCom'24.
 
 **<font color=Blue>[02/2024]</font>** I received IEEE TCPP Travel Grant for PerCom'24.
@@ -67,7 +69,6 @@ Honors and Awards
 Services
 ======
 Teaching Assistant, IS614 IoT: Technology and Applications, AY23/24 term2.
-Teaching Assistant, CS702: Computational Interaction, AY24/25 term2.
-
+Teaching Assistant, CS702: Computational Interaction, AY24/25 term2. 
 Reviewer, TNNLS.
 
