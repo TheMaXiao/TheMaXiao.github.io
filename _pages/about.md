@@ -41,8 +41,18 @@ Conference
   _**HotMobile'22**_
   [[paper](https://dl.acm.org/doi/abs/10.1145/3572864.3580332)]
 
+- LR-Auth: Towards Practical Implementation of Implicit User Authentication on Earbuds.
+  Changshuo Hu, Xiao Ma, Xinger Huang, Yiran Shen, Dong Ma.
+  _**IMWUT'24**_
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3699793)]
+
 Journal
 ------
+- Towards Diverse Tiny-Model Selection for Microcontrollers.
+  **Xiao Ma**, Shengfeng He, Hezhe Qiao, Dong Ma.
+  _**IEEE TMC'25**_
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10970460)]
+  
 - A damage detection system for inner bore of electromagnetic railgun launcher based on deep learning and computer vision.
   Yu Zhou, Ronggang Cao, Ping Li, **Xiao Ma**, Xueyi Hu, Fadong Li.
   _**Expert Systems with Applications, 2022**_
@@ -60,7 +70,8 @@ Journal
 
 Honors and Awards
 ======
-- SMU Presidential Doctoral Fellowship 2024
+- SMU Dean's List, 2025
+- SMU Presidential Doctoral Fellowship, 2024, 2025
 - Mark Weiser Best Paper Award, France, PerCom 2024.
 - IEEE TCPP Student Travel Grant, France, PerCom 2024.
 - PhD Full Scholarship, Ministry of Education, Singapore 2022.
