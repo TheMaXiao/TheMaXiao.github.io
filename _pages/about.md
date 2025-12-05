@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year PhD candidate supervised by [Assistant Prof. Dong MA](https://www.dongma.info/) at the School of Computing and Information System, [Singapore Management University](https://www.smu.edu.sg/). I received my bachelor and master degree at [Beijing Institute of Technology](https://www.bit.edu.cn/) supervised by Associate professor [Ronggang Cao](https://smen.bit.edu.cn/szdw/szml/tcykzgcx/qb05/0c0315d65f75461ea333ed903e2e62fe.htm) from 2015-2019 and 2019-2022 respectively. My research interests consist of mobile computing and pervasive sensing, especially the embedded machine learning(TinyML) which enable deep learning models on the resource-constraint embedded devices. 
+I'm a fourth-year PhD candidate supervised by [Assistant Prof. Dong MA](https://www.dongma.info/) at the School of Computing and Information System, [Singapore Management University](https://www.smu.edu.sg/). I received my bachelor and master degree at [Beijing Institute of Technology](https://www.bit.edu.cn/) supervised by Associate professor [Ronggang Cao](https://smen.bit.edu.cn/szdw/szml/tcykzgcx/qb05/0c0315d65f75461ea333ed903e2e62fe.htm) from 2015-2019 and 2019-2022 respectively. My research interests consist of mobile computing and pervasive sensing, especially the embedded machine learning(TinyML) which enable deep learning models on the resource-constraint embedded devices. 
 
 News
 ======
@@ -42,7 +42,7 @@ Conference
   [[paper](https://dl.acm.org/doi/abs/10.1145/3572864.3580332)]
 
 - LR-Auth: Towards Practical Implementation of Implicit User Authentication on Earbuds.<br>
-  Changshuo Hu, Xiao Ma, Xinger Huang, Yiran Shen, Dong Ma.<br>
+  Changshuo Hu, **Xiao Ma**, Xinger Huang, Yiran Shen, Dong Ma.<br>
   _**IMWUT'24**_<br>
   [[paper](https://dl.acm.org/doi/abs/10.1145/3699793)]
 
