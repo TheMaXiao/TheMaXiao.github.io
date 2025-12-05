@@ -32,7 +32,7 @@ Publications
 Conference
 ------
 - DiTMoS: Delving into Diverse Tiny-Model Selection on Microcontrollers.
-  **Xiao Ma**, Shengfeng He, Hezhe Qiao, Dong Ma.
+  - **Xiao Ma**, Shengfeng He, Hezhe Qiao, Dong Ma.
   _**PerCom'24**_
   [[paper](https://arxiv.org/abs/2403.09035)][[code](https://github.com/TheMaXiao/DiTMoS)][[slides](https://TheMaXiao.github.io/files/ditmos_slides.pdf)]
 
