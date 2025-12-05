@@ -31,41 +31,41 @@ Publications
 
 Conference
 ------
-- DiTMoS: Delving into Diverse Tiny-Model Selection on Microcontrollers.
-  - **Xiao Ma**, Shengfeng He, Hezhe Qiao, Dong Ma.
-  _**PerCom'24**_
+- DiTMoS: Delving into Diverse Tiny-Model Selection on Microcontrollers.<br>
+  **Xiao Ma**, Shengfeng He, Hezhe Qiao, Dong Ma.<br>
+  _**PerCom'24**_<br>
   [[paper](https://arxiv.org/abs/2403.09035)][[code](https://github.com/TheMaXiao/DiTMoS)][[slides](https://TheMaXiao.github.io/files/ditmos_slides.pdf)]
 
-- Lightweight and Non-Invasive User Authentication on Earables.
-  *Changshuo Hu, ***Xiao Ma**, Dong Ma, Ting Dang.
-  _**HotMobile'22**_
+- Lightweight and Non-Invasive User Authentication on Earables.<br>
+  *Changshuo Hu, ***Xiao Ma**, Dong Ma, Ting Dang.<br>
+  _**HotMobile'22**_<br>
   [[paper](https://dl.acm.org/doi/abs/10.1145/3572864.3580332)]
 
-- LR-Auth: Towards Practical Implementation of Implicit User Authentication on Earbuds.
-  Changshuo Hu, Xiao Ma, Xinger Huang, Yiran Shen, Dong Ma.
-  _**IMWUT'24**_
+- LR-Auth: Towards Practical Implementation of Implicit User Authentication on Earbuds.<br>
+  Changshuo Hu, Xiao Ma, Xinger Huang, Yiran Shen, Dong Ma.<br>
+  _**IMWUT'24**_<br>
   [[paper](https://dl.acm.org/doi/abs/10.1145/3699793)]
 
 Journal
 ------
-- Towards Diverse Tiny-Model Selection for Microcontrollers.
-  **Xiao Ma**, Shengfeng He, Hezhe Qiao, Dong Ma.
-  _**IEEE TMC'25**_
+- Towards Diverse Tiny-Model Selection for Microcontrollers.<br>
+  **Xiao Ma**, Shengfeng He, Hezhe Qiao, Dong Ma.<br>
+  _**IEEE TMC'25**_<br>
   [[paper](https://ieeexplore.ieee.org/abstract/document/10970460)]
   
-- A damage detection system for inner bore of electromagnetic railgun launcher based on deep learning and computer vision.
-  Yu Zhou, Ronggang Cao, Ping Li, **Xiao Ma**, Xueyi Hu, Fadong Li.
-  _**Expert Systems with Applications, 2022**_
+- A damage detection system for inner bore of electromagnetic railgun launcher based on deep learning and computer vision.<br>
+  Yu Zhou, Ronggang Cao, Ping Li, **Xiao Ma**, Xueyi Hu, Fadong Li.<br>
+  _**Expert Systems with Applications, 2022**_<br>
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422007059)]
 
-- A calibration method of inner bore profile detecting on electromagnetic railgun.
-  **Xiao Ma**, Ronggang Cao, Yu Zhou, Xueyi Hu, Fadong Li.
-  _**IEEE Sensors Journal, 2021**_
+- A calibration method of inner bore profile detecting on electromagnetic railgun.<br>
+  **Xiao Ma**, Ronggang Cao, Yu Zhou, Xueyi Hu, Fadong Li.<br>
+  _**IEEE Sensors Journal, 2021**_<br>
   [[paper](https://ieeexplore.ieee.org/abstract/document/9481084)]  
 
-- Analysis about Change of the Armature's Average Speed for an Experimental Rail Launcher.
-  Ronggang Cao, **Xiao Ma**, Guangwei Zhang, Xueyi Hu, Yu Zhou.
-  _**IEEJ Transactions on Electrical and Electronic Engineering, 2021**_
+- Analysis about Change of the Armature's Average Speed for an Experimental Rail Launcher.<br>
+  Ronggang Cao, **Xiao Ma**, Guangwei Zhang, Xueyi Hu, Yu Zhou.<br>
+  _**IEEJ Transactions on Electrical and Electronic Engineering, 2021**_<br>
   [[paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.23401)]
 
 Honors and Awards
