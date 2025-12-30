@@ -33,7 +33,7 @@ Conference
 ------
 - DiTMoS: Delving into Diverse Tiny-Model Selection on Microcontrollers.<br>
   **Xiao Ma**, Shengfeng He, Hezhe Qiao, Dong Ma.<br>
-  _**PerCom'24**_<br>
+  _**PerCom'24**_ (**<font color=Red>Mark Weiser Best Paper Award</font>**)<br>
   [[paper](https://arxiv.org/abs/2403.09035)][[code](https://github.com/TheMaXiao/DiTMoS)][[slides](https://TheMaXiao.github.io/files/ditmos_slides.pdf)]
 
 - Lightweight and Non-Invasive User Authentication on Earables.<br>
@@ -41,18 +41,18 @@ Conference
   _**HotMobile'22**_<br>
   [[paper](https://dl.acm.org/doi/abs/10.1145/3572864.3580332)]
 
-- LR-Auth: Towards Practical Implementation of Implicit User Authentication on Earbuds.<br>
-  Changshuo Hu, **Xiao Ma**, Xinger Huang, Yiran Shen, Dong Ma.<br>
-  _**IMWUT'24**_<br>
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3699793)]
-
 Journal
 ------
 - Towards Diverse Tiny-Model Selection for Microcontrollers.<br>
   **Xiao Ma**, Shengfeng He, Hezhe Qiao, Dong Ma.<br>
   _**IEEE TMC'25**_<br>
   [[paper](https://ieeexplore.ieee.org/abstract/document/10970460)]
-  
+
+- LR-Auth: Towards Practical Implementation of Implicit User Authentication on Earbuds.<br>
+  Changshuo Hu, **Xiao Ma**, Xinger Huang, Yiran Shen, Dong Ma.<br>
+  _**IMWUT'24**_ (**<font color=Red>Distinguished Paper Award</font>**)<br>
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3699793)]
+
 - A damage detection system for inner bore of electromagnetic railgun launcher based on deep learning and computer vision.<br>
   Yu Zhou, Ronggang Cao, Ping Li, **Xiao Ma**, Xueyi Hu, Fadong Li.<br>
   _**Expert Systems with Applications, 2022**_<br>
