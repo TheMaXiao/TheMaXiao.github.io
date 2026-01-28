@@ -12,6 +12,8 @@ I'm a fourth-year PhD candidate supervised by [Assistant Prof. Dong MA](https://
 
 News
 ======
+**<font color=Blue>[04/2025]</font>** Our paper **<font color=Red>"Architecture-Agnostic Test-Time Adaptation via Backprop-Free Embedding Alignment"</font>** is accepted by _**ICLR 2026**_!
+
 **<font color=Blue>[04/2025]</font>** One paper accepted to IEEE TMC.
 
 **<font color=Blue>[03/2024]</font>** Our paper won the **<font color=Red>Mark Weiser Best Paper Award</font>** in PerCom'24.
@@ -31,6 +33,10 @@ Publications
 
 Conference
 ------
+- Architecture-Agnostic Test-Time Adaptation via Backprop-Free Embedding Alignment.<br>
+  **Xiao Ma**, Young D. Kwon, Pan Zhou, Dong Ma.<br>
+   _**ICLR'26**_ <br>
+  
 - DiTMoS: Delving into Diverse Tiny-Model Selection on Microcontrollers.<br>
   **Xiao Ma**, Shengfeng He, Hezhe Qiao, Dong Ma.<br>
   _**PerCom'24**_ (**<font color=Red>Mark Weiser Best Paper Award</font>**)<br>
