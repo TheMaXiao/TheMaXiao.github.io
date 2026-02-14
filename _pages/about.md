@@ -28,10 +28,14 @@ My research interests focus on **mobile computing** and **pervasive sensing**, w
 
 ## 🔬 Research Interests
 
-• **Mobile Computing & Pervasive Sensing**  
-• **Embedded Machine Learning (TinyML)**  
-• **Test-Time Adaptation & Model Optimization**  
-• **User Authentication Systems**
+<div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #007bff;">
+
+• <strong>Mobile Computing & Pervasive Sensing</strong><br>
+• <strong>Embedded Machine Learning (TinyML)</strong><br>  
+• <strong>Test-Time Adaptation & Model Optimization</strong><br>
+• <strong>User Authentication Systems</strong>
+
+</div>
 
 ---
 
@@ -64,28 +68,40 @@ My research interests focus on **mobile computing** and **pervasive sensing**, w
 
 ## 📚 Selected Publications
 
-### **Featured Recent Work**
+<div style="background-color: #fff8e1; padding: 20px; border-radius: 10px; border: 1px solid #f0c674;">
 
-**Architecture-Agnostic Test-Time Adaptation via Backprop-Free Embedding Alignment**  
-***Xiao Ma**, Young D. Kwon, Pan Zhou, Dong Ma*  
-*ICLR 2026* • *Just Accepted!*
+<h3><strong>Featured Recent Work</strong></h3>
 
-**DiTMoS: Delving into Diverse Tiny-Model Selection on Microcontrollers**  
-***Xiao Ma**, Shengfeng He, Hezhe Qiao, Dong Ma*  
-*PerCom 2024* • **Mark Weiser Best Paper Award** 🏆  
-[[Paper](https://arxiv.org/abs/2403.09035)] [[Code](https://github.com/TheMaXiao/DiTMoS)] [[Slides](https://TheMaXiao.github.io/files/ditmos_slides.pdf)]
+<p><strong>Architecture-Agnostic Test-Time Adaptation via Backprop-Free Embedding Alignment</strong><br>
+<em><strong>Xiao Ma</strong>, Young D. Kwon, Pan Zhou, Dong Ma</em><br>  
+<em>ICLR 2026</em> • <em>Just Accepted!</em></p>
 
-**Towards Diverse Tiny-Model Selection for Microcontrollers**  
-***Xiao Ma**, Shengfeng He, Hezhe Qiao, Dong Ma*  
-*IEEE TMC 2025*  
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10970460)]
+<hr>
 
-**LR-Auth: Towards Practical Implementation of Implicit User Authentication on Earbuds**  
-*Changshuo Hu, **Xiao Ma**, Xinger Huang, Yiran Shen, Dong Ma*  
-*IMWUT 2024* • **Distinguished Paper Award** 🏆  
-[[Paper](https://dl.acm.org/doi/abs/10.1145/3699793)]
+<p><strong>DiTMoS: Delving into Diverse Tiny-Model Selection on Microcontrollers</strong><br>  
+<em><strong>Xiao Ma</strong>, Shengfeng He, Hezhe Qiao, Dong Ma</em><br>
+<em>PerCom 2024</em> • <strong>Mark Weiser Best Paper Award</strong> 🏆<br>  
+<a href="https://arxiv.org/abs/2403.09035">[Paper]</a> <a href="https://github.com/TheMaXiao/DiTMoS">[Code]</a> <a href="https://TheMaXiao.github.io/files/ditmos_slides.pdf">[Slides]</a></p>
 
-➤ [**View All Publications**](/publications/) for complete list  
+<hr>
+
+<p><strong>Towards Diverse Tiny-Model Selection for Microcontrollers</strong><br>  
+<em><strong>Xiao Ma</strong>, Shengfeng He, Hezhe Qiao, Dong Ma</em><br>
+<em>IEEE TMC 2025</em><br>  
+<a href="https://ieeexplore.ieee.org/abstract/document/10970460">[Paper]</a></p>
+
+<hr>
+
+<p><strong>LR-Auth: Towards Practical Implementation of Implicit User Authentication on Earbuds</strong><br>  
+<em>Changshuo Hu, <strong>Xiao Ma</strong>, Xinger Huang, Yiran Shen, Dong Ma</em><br>
+<em>IMWUT 2024</em> • <strong>Distinguished Paper Award</strong> 🏆<br>  
+<a href="https://dl.acm.org/doi/abs/10.1145/3699793">[Paper]</a></p>
+
+</div>
+
+<div style="text-align: center; margin: 20px 0;">
+<a href="/publications/" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">📚 View All Publications</a>
+</div>  
 📰 **IMWUT 2024** | 🏆 **Distinguished Paper Award**  
 [📄 Paper](https://dl.acm.org/doi/abs/10.1145/3699793)
 
@@ -93,15 +109,22 @@ My research interests focus on **mobile computing** and **pervasive sensing**, w
 
 ## 🏆 Honors & Awards
 
-**🏅 Academic Excellence**  
-• SMU Dean's List (2025)  
-• SMU Presidential Doctoral Fellowship (2024, 2025)  
+<table style="width: 100%; border-spacing: 15px;">
+<tr>
+<td style="background-color: #f1f8ff; padding: 15px; border-radius: 8px; width: 50%; vertical-align: top;">
+<strong>🏅 Academic Excellence</strong><br>
+• SMU Dean's List (2025)<br>
+• SMU Presidential Doctoral Fellowship (2024, 2025)<br>
 • PhD Full Scholarship, Singapore (2022)
-
-**🏆 Research Awards**  
-• Mark Weiser Best Paper Award (2024)  
-• Distinguished Paper Award (2024)  
+</td>
+<td style="background-color: #fff5f5; padding: 15px; border-radius: 8px; width: 50%; vertical-align: top;">
+<strong>🏆 Research Awards</strong><br>
+• Mark Weiser Best Paper Award (2024)<br>
+• Distinguished Paper Award (2024)<br>
 • IEEE TCPP Travel Grant (2024)
+</td>
+</tr>
+</table>
 
 ---
 
@@ -118,5 +141,9 @@ My research interests focus on **mobile computing** and **pervasive sensing**, w
 
 ---
 
-*💡 Interested in collaboration? Feel free to reach out via email or explore my work through the navigation menu above!*
+<div style="text-align: center; background-color: #f8f9fa; padding: 20px; border-radius: 10px; margin-top: 30px;">
+<p style="margin: 0; color: #6c757d; font-style: italic;">
+💡 <em>Interested in collaboration? Feel free to reach out via email or explore my work through the navigation menu above!</em>
+</p>
+</div>
 
