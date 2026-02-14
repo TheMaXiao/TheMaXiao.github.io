@@ -102,8 +102,6 @@ My research interests focus on **mobile computing** and **pervasive sensing**, w
 <div style="text-align: center; margin: 20px 0;">
 <a href="/publications/" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">📚 View All Publications</a>
 </div>  
-📰 **IMWUT 2024** | 🏆 **Distinguished Paper Award**  
-[📄 Paper](https://dl.acm.org/doi/abs/10.1145/3699793)
 
 ---
 
