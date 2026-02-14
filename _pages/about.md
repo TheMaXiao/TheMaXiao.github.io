@@ -42,7 +42,7 @@ My research interests focus on **mobile computing** and **pervasive sensing**, w
 
 **[02/2024]** ✈️ I received **IEEE TCPP Travel Grant** for PerCom'24.
 
-**[12/2023]** 📄 One paper accepted to [PerCom'2024](https://www.percom.org/call-for-papers/).
+**[12/2023]** 📄 One paper accepted to **PerCom'24**.
 
 ---
 
