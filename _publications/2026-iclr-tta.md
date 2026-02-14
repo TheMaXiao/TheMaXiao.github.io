@@ -15,4 +15,11 @@ This paper introduces a groundbreaking approach to test-time adaptation that ope
 
 Test-time adaptation has become crucial for deploying machine learning models in dynamic environments. Our work presents an architecture-agnostic method that achieves effective adaptation through embedding alignment techniques.
 
+## Key Contributions
+
+- Architecture-agnostic adaptation framework
+- Backpropagation-free optimization approach  
+- Superior performance across diverse model types
+- Efficient computational requirements
+
 Recommended citation: Xiao Ma, Young D. Kwon, Pan Zhou, Dong Ma. (2026). "Architecture-Agnostic Test-Time Adaptation via Backprop-Free Embedding Alignment." <i>ICLR 2026</i>.

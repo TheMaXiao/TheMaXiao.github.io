@@ -11,38 +11,58 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Ph.D in Computer Science**, Singapore Management University, 2022-present
+  * Supervisor: [Assistant Prof. Dong MA](https://www.dongma.info/)
+  * Focus: Mobile computing, pervasive sensing, embedded machine learning (TinyML)
 
-Work experience
+* **M.S. in Ordnance Engineering**, Beijing Institute of Technology, 2019-2022
+  * Supervisor: Associate Professor [Ronggang Cao](https://smen.bit.edu.cn/szdw/szml/tcykzgcx/qb05/0c0315d65f75461ea333ed903e2e62fe.htm)
+
+* **B.S. in Detection Guidance and Control Technology**, Beijing Institute of Technology, 2015-2019
+
+Research Interests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mobile Computing and Pervasive Sensing
+* Embedded Machine Learning (TinyML)
+* Deep Learning on Resource-Constrained Devices
+* Test-Time Adaptation
+* User Authentication Systems
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Work Experience
+======
+* **Teaching Assistant**, Singapore Management University (2023-2025)
+  * IS614 IoT: Technology and Applications (AY23/24 term2)
+  * CS702: Computational Interaction (AY24/25 term2)
+
+Honors and Awards
+======
+* SMU Dean's List, 2025
+* SMU Presidential Doctoral Fellowship, 2024, 2025
+* Mark Weiser Best Paper Award, PerCom 2024
+* IEEE TCPP Student Travel Grant, PerCom 2024
+* PhD Full Scholarship, Ministry of Education, Singapore, 2022
+* National Scholarship, Ministry of Education of China, 2021
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**: Python, C/C++, Java, MATLAB
+* **Machine Learning**: TensorFlow, PyTorch, Scikit-learn
+* **Embedded Systems**: Arduino, Raspberry Pi, Microcontrollers
+* **Research Skills**:
+  * Deep Learning Model Optimization
+  * Mobile and Pervasive Computing
+  * Experimental Design and Data Analysis
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Service
+======
+* **Reviewer**: TNNLS
+* **Teaching Assistant**: Multiple courses at SMU (2023-2025)
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
