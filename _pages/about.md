@@ -139,6 +139,8 @@ My research interests focus on **mobile computing** and **pervasive sensing**, w
 
 **📝 Reviewer**  
 • IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+• ICML 2026\
+• Percom 2026 Artifacts
 
 ---
 
