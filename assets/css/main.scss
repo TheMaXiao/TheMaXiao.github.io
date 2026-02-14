@@ -18,9 +18,7 @@
 @import "reset";
 @import "base";
 
-// Import Google Fonts for beautiful typography
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+// Georgia font is already a system font, no need for external imports
 
 @import "utilities";
 @import "animations";
@@ -44,26 +42,26 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Beautiful Typography Improvements */
+/* Beautiful Georgia Typography */
 body {
-  font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+  font-feature-settings: "kern" 1, "liga" 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
 }
 
-/* Improve headings */
+/* Improve headings for Georgia */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 600;
-  letter-spacing: -0.025em;
+  font-weight: 700;
+  letter-spacing: -0.015em;
 }
 
-/* Better paragraph spacing */
+/* Perfect paragraph spacing for Georgia */
 p {
-  line-height: 1.7;
+  line-height: 1.8;
 }
 
-/* Code styling */
+/* Code styling with monospace */
 code, pre {
   font-family: "JetBrains Mono", "SF Mono", Monaco, Inconsolata, "Roboto Mono", "Source Code Pro", monospace !important;
 }

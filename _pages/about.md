@@ -32,6 +32,8 @@ My research interests focus on **mobile computing** and **pervasive sensing**, w
 
 ## 📰 Latest News
 
+**[01/2026]** � I am visiting **University of Cambridge** as a Research Visitor from January to May 2026!
+
 **[01/2026]** 🎉 Our paper **"Architecture-Agnostic Test-Time Adaptation via Backprop-Free Embedding Alignment"** is accepted by **ICLR 2026**!
 
 **[04/2025]** 📄 One paper accepted to **IEEE TMC**.
