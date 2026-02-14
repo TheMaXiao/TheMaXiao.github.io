@@ -8,15 +8,6 @@ redirect_from:
   - /about.html
 ---
 
----
-permalink: /
-title: "Xiao Ma's Homepage"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 ## 👋 About Me
 
