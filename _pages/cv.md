@@ -52,28 +52,3 @@ Skills
   * Deep Learning Model Optimization
   * Mobile and Pervasive Computing
   * Experimental Design and Data Analysis
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Service
-======
-* **Reviewer**: TNNLS
-* **Teaching Assistant**: Multiple courses at SMU (2023-2025)
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
