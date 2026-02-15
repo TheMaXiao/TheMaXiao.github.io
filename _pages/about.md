@@ -104,8 +104,8 @@ My research interests focus on **mobile computing** and **pervasive sensing**, w
 <strong>🏅 Academic Excellence</strong><br>
 • SMU Dean's List (2025)<br>
 • SMU Presidential Doctoral Fellowship (2024, 2025)<br>
-• PhD Full Scholarship, Singapore (2022)
-• National Scholarship, Ministry of Education of China (2021)
+• PhD Full Scholarship, Singapore (2022)<br>
+• National Scholarship, China (2021)
 </td>
 <td style="background-color: #fff5f5; padding: 15px; border-radius: 8px; width: 50%; vertical-align: top;">
 <strong>🏆 Research Awards</strong><br>
