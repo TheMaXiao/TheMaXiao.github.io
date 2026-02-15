@@ -65,3 +65,12 @@ p {
 code, pre {
   font-family: "JetBrains Mono", "SF Mono", Monaco, Inconsolata, "Roboto Mono", "Source Code Pro", monospace !important;
 }
+
+/* Remove underlines from all links */
+a {
+  text-decoration: none !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
