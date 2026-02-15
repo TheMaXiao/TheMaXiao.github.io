@@ -67,8 +67,7 @@ My research interests focus on **mobile computing** and **pervasive sensing**, w
 <p><strong>Architecture-Agnostic Test-Time Adaptation via Backprop-Free Embedding Alignment</strong><br>
 <em><strong>Xiao Ma</strong>, Young D. Kwon, Pan Zhou, Dong Ma</em><br>  
 <em>ICLR 2026</em> • <em>Just Accepted!</em><br>
-<a href="https://github.com/TheMaXiao/PEA_TTA">[Code]
-<hr></p>
+<a href="https://github.com/TheMaXiao/PEA_TTA">[Code]</a></p>
 
 <p><strong>DiTMoS: Delving into Diverse Tiny-Model Selection on Microcontrollers</strong><br>  
 <em><strong>Xiao Ma</strong>, Shengfeng He, Hezhe Qiao, Dong Ma</em><br>
