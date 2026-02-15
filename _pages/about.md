@@ -63,7 +63,6 @@ My research interests focus on **mobile computing** and **pervasive sensing**, w
 
 <div style="background-color: #fff8e1; padding: 20px; border-radius: 10px; border: 1px solid #f0c674;">
 
-<h3><strong>Featured Recent Work</strong></h3>
 
 <p><strong>Architecture-Agnostic Test-Time Adaptation via Backprop-Free Embedding Alignment</strong><br>
 <em><strong>Xiao Ma</strong>, Young D. Kwon, Pan Zhou, Dong Ma</em><br>  
