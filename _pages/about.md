@@ -11,7 +11,7 @@ redirect_from:
 
 ## 👋 About Me
 
-I'm a **fourth-year PhD candidate** supervised by [Assistant Prof. Dong MA](https://www.dongma.info/) at the School of Computing and Information System, [Singapore Management University](https://www.smu.edu.sg/). I received my bachelor and master degrees at [Beijing Institute of Technology](https://www.bit.edu.cn/) supervised by Associate Professor [Ronggang Cao](https://smen.bit.edu.cn/szdw/szml/tcykzgcx/qb05/0c0315d65f75461ea333ed903e2e62fe.htm) from 2015-2019 and 2019-2022 respectively. 
+I'm a **fourth-year PhD candidate** supervised by [Prof. Dong MA](https://www.dongma.info/) and [Prof. Baihua Zheng](http://www.mysmu.edu/faculty/bhzheng/) at the School of Computing and Information System, [Singapore Management University](https://www.smu.edu.sg/). I received my bachelor and master degrees at [Beijing Institute of Technology](https://www.bit.edu.cn/) supervised by Associate Professor [Ronggang Cao](https://smen.bit.edu.cn/szdw/szml/tcykzgcx/qb05/0c0315d65f75461ea333ed903e2e62fe.htm) from 2015-2019 and 2019-2022 respectively. 
 
 My research interests focus on **mobile computing** and **pervasive sensing**, with particular expertise in **embedded machine learning (TinyML)** which enables deep learning models on resource-constrained embedded devices.
 
