@@ -32,9 +32,17 @@ My research interests focus on **mobile computing** and **pervasive sensing**, w
 
 ## 📰 Latest News
 
+**[2026]** 📊 Our paper **"PPG-Sport: A Dataset for Reliable Heart Rate Monitoring from Wrist PPG Under Dynamic Sports Conditions"** is accepted by **IMWUT**.
+
+**[03/2026]** 📄 Our paper **"PulseLM: A Foundation Dataset and Benchmark for PPG-Text Learning"** is released as a preprint.
+
+**[03/2026]** 🎉 Our paper **"Efficient Test-Time Adaptation via Decoupled BN Update For Edge Devices"** is accepted by the **3rd Workshop on Test-Time Updates (TTU) @ ICLR 2026**.
+
 **[01/2026]** ✈️ I am visiting **University of Cambridge** as a Visiting PhD Student from January to May 2026!
 
 **[01/2026]** 🎉 Our paper **"Architecture-Agnostic Test-Time Adaptation via Backprop-Free Embedding Alignment"** is accepted by **ICLR 2026**!
+
+**[05/2025]** 📄 Our paper **"On-demand Test-time Adaptation for Edge Devices"** is released as a preprint.
 
 **[04/2025]** 📄 One paper accepted to **IEEE TMC**.
 

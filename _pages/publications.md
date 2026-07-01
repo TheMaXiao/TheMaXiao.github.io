@@ -33,7 +33,23 @@ Changshuo Hu, **Xiao Ma**, Dong Ma, Ting Dang
 
 ---
 
+## Workshop Papers
+
+**Efficient Test-Time Adaptation via Decoupled BN Update For Edge Devices**  
+**Xiao Ma**, Young D. Kwon, Dong Ma  
+*3rd Workshop on Test-Time Updates (**TTU**), ICLR 2026*  
+[📄 OpenReview](https://openreview.net/forum?id=35oSXGUjDH)
+
+---
+
 ## Journal Papers
+
+**PPG-Sport: A Dataset for Reliable Heart Rate Monitoring from Wrist PPG Under Dynamic Sports Conditions**  
+Changshuo Hu, Hung Manh Pham, Yiming Zhang, Guanru Yan, **Xiao Ma**, et al.  
+*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**) 2026*  
+[📄 Paper](https://www.repository.cam.ac.uk/items/9274ab4a-322f-4bd7-a9f1-0fa347cacad4)
+
+---
 
 **Towards Diverse Tiny-Model Selection for Microcontrollers**  
 **Xiao Ma**, Shengfeng He, Hezhe Qiao, Dong Ma  
@@ -71,4 +87,20 @@ Ronggang Cao, **Xiao Ma**, Guangwei Zhang, Xueyi Hu, Yu Zhou
 
 ---
 
-*Last updated: February 2026*
+## Preprints
+
+**PulseLM: A Foundation Dataset and Benchmark for PPG-Text Learning**  
+Hung Manh Pham, Jinyang Wu, **Xiao Ma**, Yiming Zhang, Yixin Xu, Aaqib Saeed, Bin Zhu, Zhou Pan, Dong Ma  
+*arXiv preprint 2026*  
+[📄 Paper](https://arxiv.org/abs/2603.03331)
+
+---
+
+**On-demand Test-time Adaptation for Edge Devices**  
+**Xiao Ma**, Young D. Kwon, Dong Ma  
+*arXiv preprint 2025*  
+[📄 Paper](https://arxiv.org/abs/2505.00986)
+
+---
+
+*Last updated: July 2026*
