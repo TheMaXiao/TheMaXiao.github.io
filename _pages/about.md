@@ -11,7 +11,7 @@ redirect_from:
 
 ## 👋 About Me
 
-I'm a **fourth-year PhD candidate** supervised by [Prof. Dong MA](https://www.dongma.info/) and [Prof. Baihua Zheng](http://www.mysmu.edu/faculty/bhzheng/) at the School of Computing and Information System, [Singapore Management University](https://www.smu.edu.sg/). I received my bachelor and master degrees at [Beijing Institute of Technology](https://www.bit.edu.cn/) supervised by Associate Professor [Ronggang Cao](https://smen.bit.edu.cn/szdw/szml/tcykzgcx/qb05/0c0315d65f75461ea333ed903e2e62fe.htm) from 2015-2019 and 2019-2022 respectively. 
+I recently received my **PhD in Computer Science** from the School of Computing and Information Systems, [Singapore Management University](https://www.smu.edu.sg/), where I was supervised by [Prof. Dong MA](https://www.dongma.info/) and [Prof. Baihua Zheng](http://www.mysmu.edu/faculty/bhzheng/). I will join [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) as a **Postdoctoral Fellow**. I received my bachelor and master degrees at [Beijing Institute of Technology](https://www.bit.edu.cn/) supervised by Associate Professor [Ronggang Cao](https://smen.bit.edu.cn/szdw/szml/tcykzgcx/qb05/0c0315d65f75461ea333ed903e2e62fe.htm) from 2015-2019 and 2019-2022 respectively.
 
 My research interests focus on **mobile computing** and **pervasive sensing**, with particular expertise in **embedded machine learning (TinyML)** which enables deep learning models on resource-constrained embedded devices.
 
@@ -32,13 +32,15 @@ My research interests focus on **mobile computing** and **pervasive sensing**, w
 
 ## 📰 Latest News
 
+**[2026]** I received my **PhD in Computer Science** from **Singapore Management University** and will join **HKUST** as a **Postdoctoral Fellow**.
+
 **[2026]** 📊 Our paper **"PPG-Sport: A Dataset for Reliable Heart Rate Monitoring from Wrist PPG Under Dynamic Sports Conditions"** is accepted by **IMWUT**.
 
 **[03/2026]** 📄 Our paper **"PulseLM: A Foundation Dataset and Benchmark for PPG-Text Learning"** is released as a preprint.
 
 **[03/2026]** 🎉 Our paper **"Efficient Test-Time Adaptation via Decoupled BN Update For Edge Devices"** is accepted by the **3rd Workshop on Test-Time Updates (TTU) @ ICLR 2026**.
 
-**[01/2026]** ✈️ I am visiting **University of Cambridge** as a Visiting PhD Student from January to May 2026!
+**[01/2026]** ✈️ I visited **University of Cambridge** as a Visiting PhD Student from January to May 2026.
 
 **[01/2026]** 🎉 Our paper **"Architecture-Agnostic Test-Time Adaptation via Backprop-Free Embedding Alignment"** is accepted by **ICLR 2026**!
 
@@ -56,7 +58,7 @@ My research interests focus on **mobile computing** and **pervasive sensing**, w
 
 ## 🎓 Education
 
-**PhD in Computer Science** (2022 - present)  
+**PhD in Computer Science** (2022 - 2026)  
 *Singapore Management University*
 
 **Master in Ordnance Engineering** (2019 - 2022)  

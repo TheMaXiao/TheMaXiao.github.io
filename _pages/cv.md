@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D in Computer Science**, Singapore Management University, 2022-present
+* **Ph.D in Computer Science**, Singapore Management University, 2022-2026
   * Supervisor: [Assistant Prof. Dong MA](https://www.dongma.info/)
   * Focus: Mobile computing, pervasive sensing, embedded machine learning (TinyML)
 
@@ -30,6 +30,8 @@ Research Interests
 
 Work Experience
 ======
+* **Postdoctoral Fellow**, The Hong Kong University of Science and Technology (forthcoming)
+
 * **Teaching Assistant**, Singapore Management University (2023-2025)
   * IS614 IoT: Technology and Applications (AY23/24 term2)
   * CS702: Computational Interaction (AY24/25 term2)
