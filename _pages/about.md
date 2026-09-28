@@ -32,9 +32,11 @@ My research interests focus on **mobile computing** and **pervasive sensing**, w
 
 ## 📰 Latest News
 
-**[2026]** I received my **PhD in Computer Science** from **Singapore Management University** and will join **HKUST** as a **Postdoctoral Fellow**.
+**[09/2026]** 🎉 Our paper **"EmbodiTTA: Resource-Efficient Test-Time Adaptation for Embodied Visual Systems"** is accepted by **IEEE Internet of Things Journal**.
 
-**[2026]** 📊 Our paper **"PPG-Sport: A Dataset for Reliable Heart Rate Monitoring from Wrist PPG Under Dynamic Sports Conditions"** is accepted by **IMWUT**.
+**[09/2026]** I received my **PhD in Computer Science** from **Singapore Management University** and will join **HKUST** as a **Postdoctoral Fellow**.
+
+**[06/2026]** 📊 Our paper **"PPG-Sport: A Dataset for Reliable Heart Rate Monitoring from Wrist PPG Under Dynamic Sports Conditions"** is accepted by **IMWUT**.
 
 **[03/2026]** 📄 Our paper **"PulseLM: A Foundation Dataset and Benchmark for PPG-Text Learning"** is released as a preprint.
 
@@ -73,6 +75,12 @@ My research interests focus on **mobile computing** and **pervasive sensing**, w
 
 <div style="background-color: #fff8e1; padding: 20px; border-radius: 10px; border: 1px solid #f0c674;">
 
+
+<p><strong>EmbodiTTA: Resource-Efficient Test-Time Adaptation for Embodied Visual Systems</strong><br>
+<em><strong>Xiao Ma</strong>, Young D. Kwon, <strong>Dong Ma</strong>†</em><br>
+<em>IEEE Internet of Things Journal 2026</em> - <em>To appear</em></p>
+
+<hr>
 
 <p><strong>Architecture-Agnostic Test-Time Adaptation via Backprop-Free Embedding Alignment</strong><br>
 <em><strong>Xiao Ma</strong>, Young D. Kwon, Pan Zhou, Dong Ma</em><br>  

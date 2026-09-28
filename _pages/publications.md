@@ -44,6 +44,12 @@ Changshuo Hu, **Xiao Ma**, Dong Ma, Ting Dang
 
 ## Journal Papers
 
+**EmbodiTTA: Resource-Efficient Test-Time Adaptation for Embodied Visual Systems**<br>
+**Xiao Ma**, Young D. Kwon, **Dong Ma**†<br>
+*IEEE Internet of Things Journal 2026 (To appear)*
+
+---
+
 **PPG-Sport: A Dataset for Reliable Heart Rate Monitoring from Wrist PPG Under Dynamic Sports Conditions**  
 Changshuo Hu, Hung Manh Pham, Yiming Zhang, Guanru Yan, **Xiao Ma**, et al.  
 *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**) 2026*  
@@ -103,4 +109,4 @@ Hung Manh Pham, Jinyang Wu, **Xiao Ma**, Yiming Zhang, Yixin Xu, Aaqib Saeed, Bi
 
 ---
 
-*Last updated: July 2026*
+*Last updated: September 2026*
