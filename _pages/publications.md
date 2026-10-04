@@ -46,8 +46,8 @@ Changshuo Hu, **Xiao Ma**, Dong Ma, Ting Dang
 
 **EmbodiTTA: Resource-Efficient Test-Time Adaptation for Embodied Visual Systems**<br>
 **Xiao Ma**, Young D. Kwon, Dong Ma<br>
-*IEEE Internet of Things Journal 2026 (To appear)*
-[💻 Code]([https://github.com/TheMaXiao/EmbodiTTA])
+*IEEE Internet of Things Journal 2026 (To appear)*<br>
+[📄 Paper](https://doi.org/10.1109/JIOT.2026.3738781) | [💻 Code](https://github.com/TheMaXiao/EmbodiTTA)
 
 ---
 

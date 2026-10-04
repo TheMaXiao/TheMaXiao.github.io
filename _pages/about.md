@@ -78,7 +78,8 @@ My research interests focus on **mobile computing** and **pervasive sensing**, w
 
 <p><strong>EmbodiTTA: Resource-Efficient Test-Time Adaptation for Embodied Visual Systems</strong><br>
 <em><strong>Xiao Ma</strong>, Young D. Kwon, Dong Ma</em><br>
-<em>IEEE Internet of Things Journal 2026</em> - <em>To appear</em></p>
+<em>IEEE Internet of Things Journal 2026</em> - <em>To appear</em><br>
+<a href="https://doi.org/10.1109/JIOT.2026.3738781">[Paper]</a> <a href="https://github.com/TheMaXiao/EmbodiTTA">[Code]</a></p>
 
 <hr>
 
